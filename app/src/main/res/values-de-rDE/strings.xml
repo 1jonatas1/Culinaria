@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kochen</string>
+    <string name="pizza">Sauerkraut</string>
+    <string name="paese">Land</string>
+    <string name="bandiera">Flagge Deutschlands</string>
+    <string name="cibo">Land</string>
+</resources>
